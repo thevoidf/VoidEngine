@@ -3,6 +3,7 @@ import org.lwjgl.opengl.GL11;
 
 import java.util.Random;
 
+// Main class contains main method
 public class Main {
 
     private Random rand = new Random();
