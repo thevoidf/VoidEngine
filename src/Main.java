@@ -65,7 +65,6 @@ public class Main {
         }, 3, cubeModel.indicesArray);
 
         float delta = 0.0f;
-        float tmp = 0.0f;
 
         GL11.glEnable(GL11.GL_DEPTH_TEST);
         while (!window.closed()) {
